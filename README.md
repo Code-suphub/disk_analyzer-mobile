@@ -36,8 +36,8 @@ An advanced React Native application for analyzing disk space usage on Android d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/diskscan-pro.git
-   cd diskscan-pro
+   git clone https://github.com/Code-suphub/disk_analyzer.git
+   cd disk_analyzer
    ```
 
 2. Install dependencies:
